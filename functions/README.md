@@ -1,0 +1,3 @@
+# This Subrepo Teaches You About The Most Important Part Of JavaScript, About functions, this was way harder to make, and it will be alot more confusing and harder for you to learn, but you have to learn this or you can't progress or won't know much to code, this is an inredibly important topic that everyone must learn, it is long, but i believe all of you can learn it flawlessly, slowly but surely 😄, So Make Sure you get everything right, analyze, practice and modify the code, let me know if you encounter any errors. I Hope U Like It!
+
+# Made With Love By Musa!
