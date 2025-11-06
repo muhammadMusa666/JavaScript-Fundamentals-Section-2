@@ -1,0 +1,3 @@
+# This Subrepo Teaches You About The Two Types Of functions, functions Declarations and Expressions, There Isnt Much Of A Difference between them, but its up to you which one to use, each developer has their own coding styles, so its ok to choose one and mostly use it, but dont forget about the other one and just forget it, both are very important and help you in certain conditions, let me know if you see any errors. I Hope U Like It!
+
+# Made With Love By Musa!
