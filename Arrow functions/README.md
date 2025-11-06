@@ -1,0 +1,3 @@
+# This SubRepo Teaches You About A Third Type Of function, Which you should definitly learn and practice, because this function can help you write code smaller and faster, and that also doesnt mean you should only use it, i recommend you dont just stick to one and use it only, because each of the 3 functions can be useful in its own conditions, and they are pretty easy to learn so dont worry 😅, Let me know if you face any errors. I Hope U Like It!
+
+# Made With Love By Musa!
