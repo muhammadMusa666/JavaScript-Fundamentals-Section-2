@@ -1,0 +1,3 @@
+# This Subrepo Contains The Review/Conclusion Of Everything We've Learnt About Functions Up To This Point, and it is very long and detailed, so make sure you dont miss any points, because each of them matter, this is basically the basics of functions in a nutshell😄, So I Recommend You Practice Them, And Use All Three Types of the functions, And Best Of Luck understanding what i wrote😅, But Anyways Let Me know If You encounter Any Errors. I Hope U Like It!
+
+# Made With Love By Musa!
