@@ -1,0 +1,3 @@
+# This SubRepo Contains The Basics Of Arrays, Arrays Are Hard To Understand For Beginners, And So Originally This Would Be Very Detailed, But I Tried To Make It As Simple And Shorter As Possible, And So If You Dont Understand Something Because Of It, Then I Recommend Searching The Web, Or Visiting MDN For Additonal Info And Tips, This Also Contains A Fun Exercise To Show You The Importance Of Arrays, So Again Be Sure To Practice And Modify The Code, Aswell As Search On The Web For More Info, Let Me Know If You Run Into Any Errors. I Hope U Like It!
+
+# Made With Love By Musa!
