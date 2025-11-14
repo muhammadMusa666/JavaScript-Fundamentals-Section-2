@@ -1,0 +1,3 @@
+# This Subrepo Contains And Teaches You The Difference Of Dot And Bracket Notations, Aswell As Where To Use Them Mostly In Your Code, And Which Is Better In Which Situations, I Tried To Make This Short Since This Topic Is Very Detailed, And I Recommend Searching Online, Visiting MDN, Or Asking AI's About It, Because There Is A High Chance You Might Miss Some Things, This Subrepo Also Contains A Mini Challenge That Is Optional, And Its Ok If You Fail Or Don't Do It Perfectly, Because It Is A Bit Hard😄, Either Way Modify And Practice With The Code, And Analyze Every Small Detail, Let Me Know If You Encounter Any Errors. I Hope U Like It!
+
+# Made With Love By Musa!
