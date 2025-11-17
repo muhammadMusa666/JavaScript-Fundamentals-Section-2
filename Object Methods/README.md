@@ -1,0 +1,3 @@
+# This Subrepo Teaches You About Object Methods, Which Is An Incredibly Detailed Topic, Especially In This Subrepo, And This Is Very Confusing And Difficult To Understand And Catch Up On, Especially For Beginners, Its The Same For Me Aswell😬, So Even If You Dont Understand Some Of It, Especially The Challenge At The End, Its Completely Fine😄, Every Difficulty Has A Way Through, And I Am Sure After Enough Practice And Modifying The Code, You'll Understand It Well Enough, But Still, I Sincerely Recommend You Checking Out About It Online, Visiting MDN Or Other Developer Sites, Or Asking AI's, Either Way, Good Luck And Let Me Know If See Any Errors Occur, I Hope U Like It!
+
+# Made With Love By Musa!
