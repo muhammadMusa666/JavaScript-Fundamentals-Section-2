@@ -1,0 +1,3 @@
+# This SubRepo Teaches You About Another Core Fundamental Of JavaScript, Loops And for-loops, Which Is The Last Important Topic Of This JavaScript-Fundamentals-Section-2, So Yeah, After This You've Basically Learnt The Core Fundamentals Of JavaScript😄! And You're Doing Great In This Coding Journey😊, So I Hope You Can Understand More Additional Knowledge Of How JavaScript Works🫡, This Subrepo Is Very Easy To Learn, And Not As Hard As The Previous Ones, Also I Still Recommend Checking Out About It Online, Visiting MDN, Or Other Developer Helping Sites Like W3 schools, Or Ask Other AI's, Modify The Code Aswell, Practice And Analyze It Well, Let Me Know If Any Errors Occur. I Hope U Like It!
+
+# Made With Love By Musa!
